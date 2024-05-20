@@ -1,23 +1,24 @@
-# Change these first
 owner: Fluffy-Pan # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Unifi Controller
     url: https://unifi.vflits.com/
+    maxResponseTime: 2000
   - name: Portainer
     url: https://portainer.wpang.net
+    maxResponseTime: 2000
   - name: IMS
     url: https://ims.vflits.com
+    maxResponseTime: 2000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vflits.com
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Fluffy-Pan** VFLITS System Status."
   introMessage: Status page which uses **real-time** data for VFLITS. Powered by [**upptime**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
