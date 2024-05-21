@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Fluffy Pan
   introTitle: "**Fluffy-Pan** VFLITS System Status."
   introMessage: Status page which uses **real-time** data for VFLITS. Powered by [**upptime**](https://github.com/upptime/upptime)
   navbar:
@@ -25,6 +25,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+      
+workflowSchedule:
+  responseTime: "0 */2 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
