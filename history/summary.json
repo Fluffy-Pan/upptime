@@ -4,18 +4,20 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 1313,
-    "timeWeek": 1333,
-    "timeMonth": 1316,
-    "timeYear": 1316,
-    "dailyMinutesDown": {}
+    "time": 1362,
+    "timeDay": 1643,
+    "timeWeek": 1385,
+    "timeMonth": 1362,
+    "timeYear": 1362,
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   },
   {
     "name": "Portainer",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 828,
-    "timeWeek": 752,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 745,
+    "timeDay": 815,
+    "timeWeek": 749,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1539,
-    "timeDay": 1534,
-    "timeWeek": 1544,
-    "timeMonth": 1539,
-    "timeYear": 1539,
+    "time": 1537,
+    "timeDay": 1528,
+    "timeWeek": 1542,
+    "timeMonth": 1537,
+    "timeYear": 1537,
     "dailyMinutesDown": {}
   }
 ]
