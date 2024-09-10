@@ -1,7 +1,7 @@
 url: https://portainer.wpang.net
-status: degraded
+status: up
 code: 200
-responseTime: 3400
-lastUpdated: 2024-09-10T00:52:08.345Z
+responseTime: 823
+lastUpdated: 2024-09-10T00:57:05.013Z
 startTime: 2024-05-20T05:07:29.668Z
 generator: Upptime <https://github.com/upptime/upptime>
