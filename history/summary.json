@@ -4,16 +4,16 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.53%",
     "time": 1388,
-    "timeDay": 1785,
-    "timeWeek": 1695,
-    "timeMonth": 1695,
+    "timeDay": 1782,
+    "timeWeek": 1698,
+    "timeMonth": 1698,
     "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-08-10": 40,
@@ -39,7 +39,7 @@
       "2026-05-18": 45,
       "2026-05-23": 69,
       "2026-07-04": 77,
-      "2026-07-05": 0
+      "2026-07-05": 68
     }
   },
   {
