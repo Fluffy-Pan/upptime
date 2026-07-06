@@ -6,10 +6,10 @@
     "slug": "unifi-controller",
     "status": "degraded",
     "uptime": "99.72%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.52%",
     "time": 1388,
     "timeDay": 1853,
     "timeWeek": 1728,
@@ -40,7 +40,7 @@
       "2026-05-23": 69,
       "2026-07-04": 77,
       "2026-07-05": 68,
-      "2026-07-06": 0
+      "2026-07-06": 16
     }
   },
   {
