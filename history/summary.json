@@ -4,16 +4,16 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
-    "uptime": "99.70%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.47%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.45%",
     "time": 1392,
-    "timeDay": 1815,
-    "timeWeek": 1718,
-    "timeMonth": 1718,
+    "timeDay": 1789,
+    "timeWeek": 1709,
+    "timeMonth": 1709,
     "timeYear": 1399,
     "dailyMinutesDown": {
       "2025-08-10": 40,
@@ -42,7 +42,7 @@
       "2026-07-05": 68,
       "2026-07-06": 198,
       "2026-07-08": 78,
-      "2026-07-09": 1
+      "2026-07-09": 128
     }
   },
   {
@@ -50,14 +50,14 @@
     "url": "https://portainer.wpang.net",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.wpang.net.ico",
     "slug": "portainer",
-    "status": "degraded",
-    "uptime": "99.84%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.64%",
     "time": 968,
-    "timeDay": 1690,
+    "timeDay": 1712,
     "timeWeek": 1445,
     "timeMonth": 1445,
     "timeYear": 979,
@@ -76,7 +76,7 @@
       "2026-04-26": 54,
       "2026-05-02": 58,
       "2026-05-05": 58,
-      "2026-07-09": 1
+      "2026-07-09": 128
     }
   },
   {
@@ -84,16 +84,16 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "degraded",
-    "uptime": "99.25%",
-    "uptimeDay": "87.42%",
-    "uptimeWeek": "82.91%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "98.45%",
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "79.63%",
+    "uptimeWeek": "81.65%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "98.43%",
     "time": 1537,
-    "timeDay": 2179,
-    "timeWeek": 1958,
-    "timeMonth": 1958,
+    "timeDay": 2268,
+    "timeWeek": 1956,
+    "timeMonth": 1956,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2025-08-10": 20,
@@ -131,7 +131,7 @@
       "2026-07-06": 194,
       "2026-07-07": 650,
       "2026-07-08": 260,
-      "2026-07-09": 117
+      "2026-07-09": 244
     }
   }
 ]
