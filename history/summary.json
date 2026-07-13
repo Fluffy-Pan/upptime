@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.97%",
+    "uptimeWeek": "94.64%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.42%",
     "time": 1396,
-    "timeDay": 1616,
-    "timeWeek": 1689,
-    "timeMonth": 1685,
+    "timeDay": 1619,
+    "timeWeek": 1675,
+    "timeMonth": 1681,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2025-08-10": 40,
@@ -58,10 +58,10 @@
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.64%",
-    "time": 979,
-    "timeDay": 1401,
-    "timeWeek": 1458,
-    "timeMonth": 1427,
+    "time": 980,
+    "timeDay": 1291,
+    "timeWeek": 1440,
+    "timeMonth": 1414,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -88,14 +88,14 @@
     "slug": "ims",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "73.37%",
-    "uptimeWeek": "79.08%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "79.13%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "98.28%",
     "time": 1543,
-    "timeDay": 1828,
-    "timeWeek": 1932,
-    "timeMonth": 1923,
+    "timeDay": 1767,
+    "timeWeek": 1933,
+    "timeMonth": 1918,
     "timeYear": 1545,
     "dailyMinutesDown": {
       "2025-08-10": 20,
@@ -136,7 +136,7 @@
       "2026-07-09": 371,
       "2026-07-10": 183,
       "2026-07-11": 124,
-      "2026-07-12": 329
+      "2026-07-12": 324
     }
   }
 ]
