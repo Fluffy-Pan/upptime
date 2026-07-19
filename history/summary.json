@@ -6,13 +6,13 @@
     "slug": "unifi-controller",
     "status": "degraded",
     "uptime": "99.66%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.39%",
     "time": 1402,
     "timeDay": 1548,
-    "timeWeek": 1582,
+    "timeWeek": 1580,
     "timeMonth": 1636,
     "timeYear": 1407,
     "dailyMinutesDown": {
@@ -47,7 +47,7 @@
       "2026-07-11": 40,
       "2026-07-15": 98,
       "2026-07-18": 52,
-      "2026-07-19": 1
+      "2026-07-19": 19
     }
   },
   {
@@ -63,7 +63,7 @@
     "uptimeYear": "99.64%",
     "time": 988,
     "timeDay": 1308,
-    "timeWeek": 1346,
+    "timeWeek": 1343,
     "timeMonth": 1388,
     "timeYear": 994,
     "dailyMinutesDown": {
@@ -91,13 +91,13 @@
     "slug": "ims",
     "status": "degraded",
     "uptime": "99.15%",
-    "uptimeDay": "94.47%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "98.15%",
     "time": 1549,
     "timeDay": 1788,
-    "timeWeek": 1799,
+    "timeWeek": 1794,
     "timeMonth": 1869,
     "timeYear": 1551,
     "dailyMinutesDown": {
@@ -145,7 +145,7 @@
       "2026-07-16": 75,
       "2026-07-17": 202,
       "2026-07-18": 143,
-      "2026-07-19": 1
+      "2026-07-19": 19
     }
   }
 ]
