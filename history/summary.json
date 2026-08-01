@@ -11,9 +11,9 @@
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.26%",
     "time": 1416,
-    "timeDay": 1605,
-    "timeWeek": 1641,
-    "timeMonth": 1627,
+    "timeDay": 1580,
+    "timeWeek": 1634,
+    "timeMonth": 1626,
     "timeYear": 1419,
     "dailyMinutesDown": {
       "2025-08-10": 40,
@@ -66,9 +66,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.64%",
     "time": 1005,
-    "timeDay": 1319,
-    "timeWeek": 1352,
-    "timeMonth": 1355,
+    "timeDay": 1272,
+    "timeWeek": 1343,
+    "timeMonth": 1353,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -93,16 +93,16 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "83.15%",
-    "uptimeMonth": "85.20%",
+    "uptimeDay": "80.05%",
+    "uptimeWeek": "83.02%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "98.38%",
-    "time": 1563,
-    "timeDay": 1886,
-    "timeWeek": 1828,
-    "timeMonth": 1855,
+    "time": 1564,
+    "timeDay": 1862,
+    "timeWeek": 1826,
+    "timeMonth": 1854,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2026-05-16": 136,
@@ -140,7 +140,7 @@
       "2026-07-29": 365,
       "2026-07-30": 348,
       "2026-07-31": 213,
-      "2026-08-01": 134
+      "2026-08-01": 147
     }
   }
 ]
