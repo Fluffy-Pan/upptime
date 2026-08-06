@@ -4,16 +4,16 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
-    "uptime": "99.58%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "99.18%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "65.56%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "99.09%",
     "time": 1423,
-    "timeDay": 1676,
-    "timeWeek": 1667,
-    "timeMonth": 1628,
+    "timeDay": 1754,
+    "timeWeek": 1673,
+    "timeMonth": 1627,
     "timeYear": 1422,
     "dailyMinutesDown": {
       "2025-08-10": 40,
@@ -55,7 +55,7 @@
       "2026-08-01": 45,
       "2026-08-03": 130,
       "2026-08-04": 254,
-      "2026-08-06": 0
+      "2026-08-06": 496
     }
   },
   {
@@ -70,9 +70,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.64%",
     "time": 1011,
-    "timeDay": 1349,
-    "timeWeek": 1306,
-    "timeMonth": 1345,
+    "timeDay": 1476,
+    "timeWeek": 1293,
+    "timeMonth": 1346,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -97,19 +97,19 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "84.34%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "84.93%",
-    "uptimeYear": "98.36%",
-    "time": 1569,
-    "timeDay": 1882,
-    "timeWeek": 1805,
-    "timeMonth": 1848,
+    "status": "degraded",
+    "uptime": "99.27%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "85.37%",
+    "uptimeYear": "98.39%",
+    "time": 1572,
+    "timeDay": 1868,
+    "timeWeek": 1809,
+    "timeMonth": 1845,
     "timeYear": 1572,
     "dailyMinutesDown": {
-      "2026-05-19": 207,
+      "2026-05-19": 16,
       "2026-05-20": 156,
       "2026-05-21": 180,
       "2026-05-22": 764,
@@ -146,7 +146,7 @@
       "2026-08-03": 26,
       "2026-08-04": 203,
       "2026-08-05": 203,
-      "2026-08-06": 64
+      "2026-08-06": 65
     }
   }
 ]
