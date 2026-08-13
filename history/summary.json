@@ -4,15 +4,15 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "95.37%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "89.74%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "99.03%",
     "time": 1427,
-    "timeDay": 1748,
-    "timeWeek": 1670,
+    "timeDay": 1751,
+    "timeWeek": 1671,
     "timeMonth": 1630,
     "timeYear": 1422,
     "dailyMinutesDown": {
@@ -58,7 +58,8 @@
       "2026-08-08": 59,
       "2026-08-09": 127,
       "2026-08-11": 22,
-      "2026-08-12": 59
+      "2026-08-12": 65,
+      "2026-08-13": 83
     }
   },
   {
@@ -73,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1021,
-    "timeDay": 1254,
-    "timeWeek": 1308,
-    "timeMonth": 1314,
+    "timeDay": 1273,
+    "timeWeek": 1310,
+    "timeMonth": 1315,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -100,19 +101,19 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "71.59%",
-    "uptimeWeek": "86.62%",
+    "status": "degraded",
+    "uptime": "99.41%",
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "86.61%",
     "uptimeMonth": "86.80%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.68%",
     "time": 1579,
-    "timeDay": 1811,
-    "timeWeek": 1829,
-    "timeMonth": 1823,
+    "timeDay": 1827,
+    "timeWeek": 1831,
+    "timeMonth": 1824,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2026-07-08": 260,
+      "2026-07-08": 157,
       "2026-07-09": 371,
       "2026-07-10": 183,
       "2026-07-11": 124,
@@ -146,7 +147,8 @@
       "2026-08-09": 290,
       "2026-08-10": 98,
       "2026-08-11": 268,
-      "2026-08-12": 405
+      "2026-08-12": 405,
+      "2026-08-13": 1
     }
   }
 ]
