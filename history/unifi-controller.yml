@@ -1,7 +1,7 @@
 url: https://unifi.vflits.com/
-status: degraded
+status: up
 code: 200
-responseTime: 2336
-lastUpdated: 2026-08-12T23:54:17.541Z
+responseTime: 1701
+lastUpdated: 2026-08-13T01:23:02.757Z
 startTime: 2024-05-20T05:07:28.073Z
 generator: Upptime <https://github.com/upptime/upptime>
