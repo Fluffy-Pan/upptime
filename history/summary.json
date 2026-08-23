@@ -110,16 +110,16 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "degraded",
-    "uptime": "99.53%",
-    "uptimeDay": "76.75%",
-    "uptimeWeek": "87.15%",
-    "uptimeMonth": "87.20%",
-    "uptimeYear": "98.93%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "86.65%",
+    "uptimeMonth": "87.09%",
+    "uptimeYear": "98.92%",
     "time": 1612,
-    "timeDay": 3271,
-    "timeWeek": 2425,
-    "timeMonth": 1999,
+    "timeDay": 3257,
+    "timeWeek": 2417,
+    "timeMonth": 1998,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2026-07-25": 445,
@@ -151,7 +151,7 @@
       "2026-08-20": 111,
       "2026-08-21": 285,
       "2026-08-22": 309,
-      "2026-08-23": 152
+      "2026-08-23": 202
     }
   }
 ]
