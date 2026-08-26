@@ -6,10 +6,10 @@
     "slug": "unifi-controller",
     "status": "degraded",
     "uptime": "99.45%",
-    "uptimeDay": "90.09%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "98.85%",
     "time": 1437,
     "timeDay": 1810,
     "timeWeek": 1724,
@@ -71,7 +71,7 @@
       "2026-08-23": 31,
       "2026-08-24": 119,
       "2026-08-25": 141,
-      "2026-08-26": 0
+      "2026-08-26": 9
     }
   },
   {
@@ -115,10 +115,10 @@
     "slug": "ims",
     "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "88.49%",
-    "uptimeWeek": "85.59%",
-    "uptimeMonth": "89.51%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "85.51%",
+    "uptimeMonth": "89.49%",
+    "uptimeYear": "99.12%",
     "time": 1633,
     "timeDay": 2823,
     "timeWeek": 2865,
@@ -152,7 +152,7 @@
       "2026-08-23": 295,
       "2026-08-24": 222,
       "2026-08-25": 166,
-      "2026-08-26": 1
+      "2026-08-26": 9
     }
   }
 ]
