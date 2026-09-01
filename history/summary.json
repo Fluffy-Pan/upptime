@@ -117,11 +117,11 @@
     "slug": "ims",
     "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "87.81%",
-    "uptimeMonth": "88.51%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "87.61%",
+    "uptimeMonth": "88.46%",
     "uptimeYear": "99.04%",
-    "time": 1639,
+    "time": 1641,
     "timeDay": 3032,
     "timeWeek": 2416,
     "timeMonth": 2193,
@@ -154,7 +154,7 @@
       "2026-08-29": 139,
       "2026-08-30": 259,
       "2026-08-31": 150,
-      "2026-09-01": 1
+      "2026-09-01": 21
     }
   }
 ]
