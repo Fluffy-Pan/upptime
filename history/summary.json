@@ -118,10 +118,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
     "status": "degraded",
-    "uptime": "99.56%",
-    "uptimeDay": "61.65%",
-    "uptimeWeek": "84.54%",
-    "uptimeMonth": "87.80%",
+    "uptime": "99.55%",
+    "uptimeDay": "60.40%",
+    "uptimeWeek": "84.36%",
+    "uptimeMonth": "87.76%",
     "uptimeYear": "98.98%",
     "time": 1647,
     "timeDay": 4612,
@@ -156,7 +156,7 @@
       "2026-08-30": 259,
       "2026-08-31": 150,
       "2026-09-01": 552,
-      "2026-09-02": 1
+      "2026-09-02": 19
     }
   }
 ]
