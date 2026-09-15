@@ -4,16 +4,16 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
-    "uptime": "99.30%",
-    "uptimeDay": "93.57%",
-    "uptimeWeek": "86.99%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "98.40%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "79.01%",
+    "uptimeWeek": "84.91%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "98.36%",
     "time": 1438,
-    "timeDay": 1749,
-    "timeWeek": 1790,
-    "timeMonth": 1699,
+    "timeDay": 1782,
+    "timeWeek": 1793,
+    "timeMonth": 1700,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2025-09-21": 22,
@@ -82,7 +82,7 @@
       "2026-09-11": 156,
       "2026-09-12": 424,
       "2026-09-13": 244,
-      "2026-09-15": 93
+      "2026-09-15": 302
     }
   },
   {
@@ -124,16 +124,16 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "degraded",
-    "uptime": "99.36%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "74.99%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "98.52%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "79.03%",
+    "uptimeWeek": "73.28%",
+    "uptimeMonth": "82.59%",
+    "uptimeYear": "98.48%",
     "time": 1670,
-    "timeDay": 1850,
-    "timeWeek": 2700,
-    "timeMonth": 2534,
+    "timeDay": 1732,
+    "timeWeek": 2515,
+    "timeMonth": 2535,
     "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-08-13": 184,
@@ -167,7 +167,7 @@
       "2026-09-11": 162,
       "2026-09-12": 228,
       "2026-09-13": 289,
-      "2026-09-15": 93
+      "2026-09-15": 302
     }
   }
 ]
