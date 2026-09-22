@@ -4,20 +4,18 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "67.82%",
+    "status": "degraded",
+    "uptime": "99.33%",
+    "uptimeDay": "67.77%",
     "uptimeWeek": "88.23%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "98.20%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "98.42%",
     "time": 1450,
-    "timeDay": 1937,
-    "timeWeek": 1882,
-    "timeMonth": 1750,
-    "timeYear": 1448,
+    "timeDay": 2325,
+    "timeWeek": 1951,
+    "timeMonth": 1760,
+    "timeYear": 1449,
     "dailyMinutesDown": {
-      "2025-11-28": 700,
-      "2025-11-27": 484,
       "2025-12-19": 36,
       "2025-12-20": 20,
       "2026-01-20": 28,
@@ -85,7 +83,7 @@
       "2026-09-18": 19,
       "2026-09-20": 146,
       "2026-09-21": 357,
-      "2026-09-22": 463
+      "2026-09-22": 464
     }
   },
   {
@@ -100,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1077,
-    "timeDay": 1506,
-    "timeWeek": 1398,
-    "timeMonth": 1361,
+    "timeDay": 1515,
+    "timeWeek": 1394,
+    "timeMonth": 1360,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -127,16 +125,16 @@
     "url": "https://ims.vflits.com",
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
-    "status": "degraded",
-    "uptime": "99.21%",
-    "uptimeDay": "40.78%",
-    "uptimeWeek": "77.96%",
-    "uptimeMonth": "80.11%",
-    "uptimeYear": "98.15%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "36.02%",
+    "uptimeWeek": "77.35%",
+    "uptimeMonth": "79.72%",
+    "uptimeYear": "98.12%",
     "time": 1687,
-    "timeDay": 2682,
-    "timeWeek": 2759,
-    "timeMonth": 2741,
+    "timeDay": 2895,
+    "timeWeek": 2781,
+    "timeMonth": 2727,
     "timeYear": 1687,
     "dailyMinutesDown": {
       "2026-08-16": 15,
@@ -173,7 +171,7 @@
       "2026-09-19": 343,
       "2026-09-20": 147,
       "2026-09-21": 576,
-      "2026-09-22": 730
+      "2026-09-22": 922
     }
   }
 ]
