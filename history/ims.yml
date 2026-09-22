@@ -1,7 +1,7 @@
 url: https://ims.vflits.com
-status: degraded
-code: 502
-responseTime: 7127
-lastUpdated: 2026-09-22T17:53:08.293Z
+status: up
+code: 200
+responseTime: 1607
+lastUpdated: 2026-09-22T20:18:44.868Z
 startTime: 2024-05-20T05:07:30.739Z
 generator: Upptime <https://github.com/upptime/upptime>
