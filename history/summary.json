@@ -4,16 +4,16 @@
     "url": "https://unifi.vflits.com/",
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
-    "status": "degraded",
-    "uptime": "99.30%",
-    "uptimeDay": "65.08%",
-    "uptimeWeek": "84.69%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "98.36%",
-    "time": 1451,
-    "timeDay": 2388,
-    "timeWeek": 1985,
-    "timeMonth": 1764,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "61.33%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "98.33%",
+    "time": 1452,
+    "timeDay": 2226,
+    "timeWeek": 1981,
+    "timeMonth": 1770,
     "timeYear": 1450,
     "dailyMinutesDown": {
       "2026-01-20": 28,
@@ -82,7 +82,7 @@
       "2026-09-20": 146,
       "2026-09-21": 357,
       "2026-09-22": 465,
-      "2026-09-23": 354
+      "2026-09-23": 547
     }
   },
   {
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1078,
-    "timeDay": 1388,
-    "timeWeek": 1384,
-    "timeMonth": 1360,
+    "timeDay": 1360,
+    "timeWeek": 1382,
+    "timeMonth": 1361,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -125,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "37.36%",
-    "uptimeWeek": "72.92%",
-    "uptimeMonth": "79.03%",
-    "uptimeYear": "98.02%",
+    "uptime": "99.14%",
+    "uptimeDay": "35.11%",
+    "uptimeWeek": "71.67%",
+    "uptimeMonth": "78.59%",
+    "uptimeYear": "97.98%",
     "time": 1691,
-    "timeDay": 3875,
-    "timeWeek": 2997,
-    "timeMonth": 2720,
-    "timeYear": 1692,
+    "timeDay": 3436,
+    "timeWeek": 2967,
+    "timeMonth": 2717,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2026-08-17": 44,
       "2026-08-18": 183,
@@ -170,7 +170,7 @@
       "2026-09-20": 147,
       "2026-09-21": 576,
       "2026-09-22": 923,
-      "2026-09-23": 541
+      "2026-09-23": 734
     }
   }
 ]
