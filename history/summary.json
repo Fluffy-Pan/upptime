@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.vflits.com.ico",
     "slug": "unifi-controller",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "76.53%",
-    "uptimeWeek": "84.45%",
-    "uptimeMonth": "89.43%",
-    "uptimeYear": "98.33%",
-    "time": 1452,
-    "timeDay": 1772,
-    "timeWeek": 1954,
-    "timeMonth": 1763,
-    "timeYear": 1450,
+    "uptime": "99.19%",
+    "uptimeDay": "12.24%",
+    "uptimeWeek": "72.23%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "98.09%",
+    "time": 1450,
+    "timeDay": 48,
+    "timeWeek": 1782,
+    "timeMonth": 1727,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2026-01-23": 21,
       "2026-01-26": 22,
@@ -82,7 +82,8 @@
       "2026-09-21": 357,
       "2026-09-22": 465,
       "2026-09-23": 547,
-      "2026-09-24": 1
+      "2026-09-25": 199,
+      "2026-09-24": 1064
     }
   },
   {
@@ -91,16 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.wpang.net.ico",
     "slug": "portainer",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 1078,
-    "timeDay": 1054,
-    "timeWeek": 1373,
-    "timeMonth": 1355,
-    "timeYear": 1094,
+    "uptime": "99.74%",
+    "uptimeDay": "12.23%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "99.40%",
+    "time": 1077,
+    "timeDay": 70,
+    "timeWeek": 1175,
+    "timeMonth": 1320,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-18": 47,
       "2025-11-28": 700,
@@ -117,7 +118,8 @@
       "2026-05-02": 58,
       "2026-05-05": 58,
       "2026-07-09": 128,
-      "2026-09-24": 1
+      "2026-09-25": 200,
+      "2026-09-24": 1064
     }
   },
   {
@@ -126,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ims.vflits.com.ico",
     "slug": "ims",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "33.21%",
-    "uptimeWeek": "66.81%",
-    "uptimeMonth": "77.33%",
-    "uptimeYear": "97.87%",
-    "time": 1695,
-    "timeDay": 1149,
-    "timeWeek": 3005,
-    "timeMonth": 2701,
-    "timeYear": 1692,
+    "uptime": "98.99%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "54.28%",
+    "uptimeMonth": "74.95%",
+    "uptimeYear": "97.62%",
+    "time": 1694,
+    "timeDay": 54,
+    "timeWeek": 2839,
+    "timeMonth": 2560,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2026-08-17": 44,
       "2026-08-18": 183,
@@ -172,7 +174,8 @@
       "2026-09-21": 576,
       "2026-09-22": 923,
       "2026-09-23": 962,
-      "2026-09-24": 377
+      "2026-09-25": 200,
+      "2026-09-24": 1440
     }
   }
 ]
