@@ -3,7 +3,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Unifi Controller
-    url: https://unifi.vflits.com/
+    url: https://unifi-cloud.vflits.com/
     maxResponseTime: 2000
   - name: Portainer
     url: https://portainer.wpang.net
